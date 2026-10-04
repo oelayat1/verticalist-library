@@ -1,6 +1,6 @@
 # The Verticalist — Content Index
 
-Updated: 2026-10-04T20:31:56+00:00. Coverage: 28 essays and 0 podcast transcripts.
+Updated: 2026-10-04T20:53:51+00:00. Coverage: 28 essays and 0 podcast transcripts.
 
 Dates are publication dates printed in the original sources. Descriptions help locate useful material; read the full source before proposing linked text for a draft.
 

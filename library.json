@@ -2,7 +2,7 @@
   "schema_version": 1,
   "library": "The Verticalist",
   "repository": "oelayat1/verticalist-library",
-  "updated": "2026-10-04T20:31:56+00:00",
+  "updated": "2026-10-04T20:53:51+00:00",
   "sources": [
     {
       "id": "2026-09-29-saaspocalypse-now-what",
@@ -13,7 +13,7 @@
       "path": "essays/2026-09-29-saaspocalypse-now-what.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-09-29-saaspocalypse-now-what.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-09-29-saaspocalypse-now-what.md",
-      "sha256": "e2b23a45a3d838cbf68ba33d4797538ff6de65f4f5df5c30403daad6f9886f8a",
+      "sha256": "1372ef1b0889aa33a1ac7f64448fd2b4d9226d9f30cbcb1a4fe33c2ea47af215",
       "original_pdf": "2026-09-26-SaaSpocalypse Now What_.pdf"
     },
     {
@@ -25,7 +25,7 @@
       "path": "essays/2026-07-16-clear-eyes-full-stack-cant-lose.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-07-16-clear-eyes-full-stack-cant-lose.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-07-16-clear-eyes-full-stack-cant-lose.md",
-      "sha256": "37ed4a45631028bb484b7f53828dee1edd87f0fd46efdee2259c9c907d733d3a",
+      "sha256": "81780dfd866b0c5d5226f4abb8774b6856f3c55f6989eee67d8a6bab83dcd9b4",
       "original_pdf": "2026-07-16 - Clear Eyes, Full Stack, Can’t Lose_.pdf"
     },
     {
@@ -37,7 +37,7 @@
       "path": "essays/2026-06-23-the-exception-queue.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-06-23-the-exception-queue.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-06-23-the-exception-queue.md",
-      "sha256": "cb6055665806dda6ce69d5d9f3187f295ebf95074abee113534a30d6692bd555",
+      "sha256": "3f5b2506af5c851d4e344b4db4e16465406d60b78aef3da5c33f1eee5fa64364",
       "original_pdf": "2026-06-26 - The Exception Queue.pdf"
     },
     {
@@ -49,7 +49,7 @@
       "path": "essays/2026-05-26-saaspocalypse-now.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-05-26-saaspocalypse-now.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-05-26-saaspocalypse-now.md",
-      "sha256": "e71c84f6a9c547d8447871f174392ea87774949900808d1ae1e886ca264bfa49",
+      "sha256": "874d51622d2db84dd038fcd6ebd8fb5cf1e337756d10da7bab91d433bc952f9c",
       "original_pdf": "2026-05-26 - SaaSpocalypse Now.pdf"
     },
     {
@@ -61,7 +61,7 @@
       "path": "essays/2026-05-01-the-dark-marketplace.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-05-01-the-dark-marketplace.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-05-01-the-dark-marketplace.md",
-      "sha256": "d8f471bf61722fded7017c599a5f21dc3aa90f8b48242cb95fa8c8976c394338",
+      "sha256": "e1962ae68572251af49bf0a201baf9659956e004d741b104c26141d4cb1b738f",
       "original_pdf": "2026-05-01 The Dark Marketplace.pdf"
     },
     {
@@ -73,7 +73,7 @@
       "path": "essays/2026-04-05-no-country-for-old-founders.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-04-05-no-country-for-old-founders.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-04-05-no-country-for-old-founders.md",
-      "sha256": "a16e1b6cdcd213ab07badc32288511cdc65304e1d9cf6e6ddf6bae6a773248df",
+      "sha256": "97c4d21a62861c2acd8993dd0a95d7dfd4b7e5ebb1b310c2d2d2dd66fb0875a6",
       "original_pdf": "2026-04-06-no-country-for-old-founders.pdf"
     },
     {
@@ -85,7 +85,7 @@
       "path": "essays/2026-03-19-we-need-to-talk-about-agents.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-03-19-we-need-to-talk-about-agents.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-03-19-we-need-to-talk-about-agents.md",
-      "sha256": "7446e968aeb24b36622cb2b41eabef61f3dad6623f166b8aab818443ec42def6",
+      "sha256": "6680334313ecc9f1cf454ee8878e0164961ed84cb46f7e9515edf93542da15c4",
       "original_pdf": "2026-03-19-we-need-to-talk-about-agents.pdf"
     },
     {
@@ -97,7 +97,7 @@
       "path": "essays/2026-02-18-software-is-dead-long-live-software.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-02-18-software-is-dead-long-live-software.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-02-18-software-is-dead-long-live-software.md",
-      "sha256": "83385ed10f08a174e4cc04fc0878e89f2032fd6f5d6a5642b7fffbac254556f8",
+      "sha256": "03387046a5189df92736071fcc4407992aaa5f9f7e73649c21fe5472e3e57c86",
       "original_pdf": "2026-02-18-software-is-dead-long-live-software.pdf"
     },
     {
@@ -109,7 +109,7 @@
       "path": "essays/2026-02-13-the-dispatcher-problem.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-02-13-the-dispatcher-problem.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-02-13-the-dispatcher-problem.md",
-      "sha256": "4b3f50fec651c3bd03cc9758139d23c965569653611b3028e6ce0aef91f1d5c7",
+      "sha256": "50fd7745e0c73ae7d8f51eec162f7ecdedc2f98318b5323963cae20ab616d9ee",
       "original_pdf": "2026-02-13-who-gets-to-eat.pdf"
     },
     {
@@ -121,7 +121,7 @@
       "path": "essays/2025-07-25-dude-wheres-my-moat.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-07-25-dude-wheres-my-moat.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-07-25-dude-wheres-my-moat.md",
-      "sha256": "df47fb9b36728c6ceb9ae2a2e26de47b2bf2374bd0e9427b095d310522f7efbc",
+      "sha256": "b3b3a29693f50f62a48450f9cf21faa17cbf3711942004895219dfb28d03acdb",
       "original_pdf": "2025-07-25-dude-wheres-my-moat.pdf"
     },
     {
@@ -133,7 +133,7 @@
       "path": "essays/2025-06-12-vertical-ai-the-productivity-paradox.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-06-12-vertical-ai-the-productivity-paradox.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-06-12-vertical-ai-the-productivity-paradox.md",
-      "sha256": "7b940e53eadf290331cbeaa78b2ae4a2b3873985fc7630f8e85d705b7b5d6420",
+      "sha256": "1538b0e5e32d7fdd7af712e9f6ebd40ba6bc223fe2015ce7f2042d4c907085c3",
       "original_pdf": "2025-06-12-vertical-ai-and-the-productivity.pdf"
     },
     {
@@ -145,7 +145,7 @@
       "path": "essays/2025-05-30-voice-first-playbooks-in-vertical-ai.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-05-30-voice-first-playbooks-in-vertical-ai.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-05-30-voice-first-playbooks-in-vertical-ai.md",
-      "sha256": "6577169f895ab2a82ffaa64ff5e30b64800ef202a3340a5e9a87376af7d1fca2",
+      "sha256": "8c5120f06dfb214f257dc4d9a83e8c0a5813beb256ca5367b9da7e67931bbee6",
       "original_pdf": "2025-05-30-voice-first-playbooks-in-vertical.pdf"
     },
     {
@@ -157,7 +157,7 @@
       "path": "essays/2025-05-22-vertical-ais-integration-problem.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-05-22-vertical-ais-integration-problem.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-05-22-vertical-ais-integration-problem.md",
-      "sha256": "0c4c15058b9da8a9b7cbb36bd3d9b1e04c06cd6c291b9393442cd1e2e417dfcb",
+      "sha256": "9022b57678e8936bea3b039c6b532be3482bb889a516ce67a68bf4535297339a",
       "original_pdf": "2025-05-22-vertical-ais-integration-problem.pdf"
     },
     {
@@ -169,7 +169,7 @@
       "path": "essays/2025-05-02-swiss-cheese-vertical-software.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-05-02-swiss-cheese-vertical-software.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-05-02-swiss-cheese-vertical-software.md",
-      "sha256": "068015c6fd530c2b11a9ff396ef1ca6798476ef1244597b2fdb25b22ee3db5c1",
+      "sha256": "b3e293a506965f8235a4876b210a57104bd25f57e9ff3eb8b78a093779f6e30f",
       "original_pdf": "2025-05-02-swiss-cheese-and-vertical-software.pdf"
     },
     {
@@ -181,7 +181,7 @@
       "path": "essays/2025-04-08-a-guide-to-disrupting-incumbents.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-04-08-a-guide-to-disrupting-incumbents.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-04-08-a-guide-to-disrupting-incumbents.md",
-      "sha256": "f63666864c95e9091fb2e3f4e06b556849454a23cfc79f30f166c3ad44a06d47",
+      "sha256": "f1c5fe94938f4f7b286fcdf5481b7f323b6f823c42f0599720b3e1961ba21b2e",
       "original_pdf": "2025-04-08-a-guide-to-disrupting-incumbents.pdf"
     },
     {
@@ -193,7 +193,7 @@
       "path": "essays/2025-03-21-the-truth-about-founder-led-sales.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-03-21-the-truth-about-founder-led-sales.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-03-21-the-truth-about-founder-led-sales.md",
-      "sha256": "aa9cf625e4e2f0c065b1023ec4c0d16f0b9d972483e2506caf0c809cf7ebf598",
+      "sha256": "1840fed75ea6fdc570b982c18d9197ac8affd527e811cfc0b4de1af7c6573843",
       "original_pdf": "2025-03-21-the-truth-about-founder-led-sales.pdf"
     },
     {
@@ -205,7 +205,7 @@
       "path": "essays/2025-03-07-early-stage-vc-in-the-age-of-vertical-ai.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-03-07-early-stage-vc-in-the-age-of-vertical-ai.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-03-07-early-stage-vc-in-the-age-of-vertical-ai.md",
-      "sha256": "9758be9db1889e4128a327b997ae89e8fa736b09e8abdadd212f6f1402bb6e45",
+      "sha256": "ff557d9114725c1ff1e4c5270f78a316f69b4de1b9c56a37b0a20a241376b9be",
       "original_pdf": "2025-03-07-early-stage-vc-in-the-age-of-vertical.pdf"
     },
     {
@@ -217,7 +217,7 @@
       "path": "essays/2025-02-27-ai-is-solving-saas-product-adoption.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-02-27-ai-is-solving-saas-product-adoption.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-02-27-ai-is-solving-saas-product-adoption.md",
-      "sha256": "b7a080bdcabe458a01cd0997a3346d35b3c8abf4ac60b50398909b38fc992cc9",
+      "sha256": "03312e8120457c0b590831902f3af4213770bcbff82fcf41b0b62451c59bd552",
       "original_pdf": "2025-02-27-ai-is-solving-saas-adoption-problem.pdf"
     },
     {
@@ -229,7 +229,7 @@
       "path": "essays/2025-02-06-emerging-playbooks-in-vertical-ai.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-02-06-emerging-playbooks-in-vertical-ai.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-02-06-emerging-playbooks-in-vertical-ai.md",
-      "sha256": "e190139ccd238ff3604794d40243401a0447abc4c4c5c685bf7e8c435131f9a1",
+      "sha256": "634e1154891892447225b04a8927925e72aaebacb1f66de32cee4e3eb43192db",
       "original_pdf": "2025-02-06-emerging-playbooks-in-vertical-ai.pdf"
     },
     {
@@ -241,7 +241,7 @@
       "path": "essays/2025-01-31-market-sizing-in-vertical-ai-part-ii.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-01-31-market-sizing-in-vertical-ai-part-ii.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-01-31-market-sizing-in-vertical-ai-part-ii.md",
-      "sha256": "cdde72176acfd10394f53daac70c8e07934ad7f8b8b02d50442c1575774d527a",
+      "sha256": "f0fb72a7cd14d0f4df046111556391c448dae5119528cb58fb327df43fdd8a2d",
       "original_pdf": "2025-01-31-market-sizing-in-vertical-software-part II.pdf"
     },
     {
@@ -253,7 +253,7 @@
       "path": "essays/2025-01-08-market-sizing-in-vertical-ai-part-i.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2025-01-08-market-sizing-in-vertical-ai-part-i.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2025-01-08-market-sizing-in-vertical-ai-part-i.md",
-      "sha256": "6303fb663cd3ac6baf9c9ad330b3a572e2c5064c2e2af2bb1b22429b3abb4af2",
+      "sha256": "569776383cbbe91307c185a6bd765fc3605560d924a7ea3190036cc76e3c2b20",
       "original_pdf": "2025-01-08-market-sizing-in-vertical-software-part I.pdf"
     },
     {
@@ -265,7 +265,7 @@
       "path": "essays/2024-12-20-the-unknown-known.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2024-12-20-the-unknown-known.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2024-12-20-the-unknown-known.md",
-      "sha256": "6d84a1029cde5b99b0998be7a8cc4e9ed1d1c245eff9931d6a525910d50d0748",
+      "sha256": "3e9ae6531be385a751ee6e71fbc34925e370bb8af42067279a4f74fe4a9e4332",
       "original_pdf": "2024-12-20-the-unknown-known.pdf"
     },
     {
@@ -277,7 +277,7 @@
       "path": "essays/2024-10-31-the-next-chapter-for-vertical-software.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2024-10-31-the-next-chapter-for-vertical-software.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2024-10-31-the-next-chapter-for-vertical-software.md",
-      "sha256": "7531a27a5d122f2cdcf67e1c16b421f3b0d49429b7a54ba10b39b0b86a182bd2",
+      "sha256": "d7aff9ccc84d42c2b6401fc8583d9ce073c2fc65e754578dd00994426cc14d87",
       "original_pdf": "2024-10-31-the-next-chapter-for-vertical-software.pdf"
     },
     {
@@ -289,7 +289,7 @@
       "path": "essays/2024-09-19-nobody-wants-your-product.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2024-09-19-nobody-wants-your-product.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2024-09-19-nobody-wants-your-product.md",
-      "sha256": "a684c249701ef4b568a45c8d44175af0197b31dedaa2a7f21d5291c983ef6a8e",
+      "sha256": "5da9fdba03328b37af1e8c0002ea2734297c1f83d93b2591b062c675442faf00",
       "original_pdf": "2024-09-19-nobody-wants-your-product.pdf"
     },
     {
@@ -301,7 +301,7 @@
       "path": "essays/2024-08-08-the-buyout-frenzy-in-vertical-saas.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2024-08-08-the-buyout-frenzy-in-vertical-saas.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2024-08-08-the-buyout-frenzy-in-vertical-saas.md",
-      "sha256": "ee9bf9eb39c6a650183a28f270cdcb5a1a92972e3c5c20050dd9462d08458c42",
+      "sha256": "a185e626c9acf908693b91fb09db7d25aea25c250d687bd0e518e27fb9ab92f3",
       "original_pdf": "2024-08-08-the-buyout-frenzy-in-vertical-saas.pdf"
     },
     {
@@ -313,7 +313,7 @@
       "path": "essays/2024-06-13-the-future-of-ai-is-vertical.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2024-06-13-the-future-of-ai-is-vertical.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2024-06-13-the-future-of-ai-is-vertical.md",
-      "sha256": "45c4c94b1859f560397377aa978234eeabe9ef5a995fc59cb12eb7ac54e3b285",
+      "sha256": "c083d4f39a8f8f6434880560722ff38d2c9fc9ad7fcf8f01a3dabcf20815a0d2",
       "original_pdf": "2024-06-13-the-future-of-ai-is-vertical.pdf"
     },
     {
@@ -325,7 +325,7 @@
       "path": "essays/2024-05-10-the-vertical-saas-profit-premium.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2024-05-10-the-vertical-saas-profit-premium.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2024-05-10-the-vertical-saas-profit-premium.md",
-      "sha256": "8dab4b93d23731c0c671216cc5dc5e05a42b7ff2ae8aa21c187d74af33e4a264",
+      "sha256": "b1fdd56eeec3c69609f0c1f13e6d55e1c1ec01a4446faefeb4613821545d1fb5",
       "original_pdf": "2024-05-10-the-vertical-saas-profit-premium.pdf"
     },
     {
@@ -337,7 +337,7 @@
       "path": "essays/2024-04-17-an-era-for-vertical-software.md",
       "url": "https://github.com/oelayat1/verticalist-library/blob/main/essays/2024-04-17-an-era-for-vertical-software.md",
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2024-04-17-an-era-for-vertical-software.md",
-      "sha256": "d26878fbbedf91c2c7516e2cfa976b2b54a27ee2477b5f6e1f0dde2b2dfeafed",
+      "sha256": "2f733854d89cb2ccc299ffc1892d0a55beb5ab11593d2472255f68d62f332ec2",
       "original_pdf": "2024-04-17-an-era-for-vertical-software.pdf"
     }
   ]
