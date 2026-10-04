@@ -12,7 +12,7 @@ A living collection of essays and podcast transcripts for writers looking for re
 
 The skill reads the current catalog whenever it runs, then fetches relevant sources. It provides an insertion point, copy-ready linked text, and a short explanation of why it helps. It can return “No strong matches.”
 
-Claude needs code execution with network access to raw.githubusercontent.com, or a working web-fetch tool. Organization settings may restrict this. If remote access is unavailable, add the repository files through Claude's GitHub integration and sync before use; the skill will identify that material as a snapshot.
+Claude needs code execution with network access to raw.githubusercontent.com and api.github.com, or a working web-fetch tool. The helper reads the catalog through GitHub's file API and can fall back to that API when raw-file caching delays an update. Organization settings may restrict access. If remote access is unavailable, add the repository files through Claude's GitHub integration and sync before use; the skill will identify that material as a snapshot.
 
 Adding content to this repository does not require reinstalling the skill. If the skill instructions or bundled helper change, download and upload a new ZIP.
 

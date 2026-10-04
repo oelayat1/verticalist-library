@@ -22,7 +22,7 @@ python scripts/fetch_library.py --index
 python scripts/fetch_library.py --source SOURCE_ID [SOURCE_ID ...]
 ```
 
-The helper reads only this public repository. It returns source IDs, summaries, dates, hyperlinks, and verified full source text. It never uploads the writer's draft.
+The helper reads only this public repository through raw.githubusercontent.com and api.github.com. It returns source IDs, summaries, dates, hyperlinks, and verified full source text. It reads the catalog through the file API and can bypass stale raw-file responses. It never uploads the writer's draft.
 
 If the helper cannot reach GitHub, try an available web-fetch tool against the live catalog and the exact read URLs it lists. In an environment without external access, use a user-provided or GitHub-synced library and clearly identify it as a snapshot. If neither is available, explain that the library is unavailable and request the relevant files; do not say there were no matches.
 

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Read the current Verticalist catalog and selected sources; never send draft text."""
 import argparse
+import base64
 import hashlib
 import json
 import sys
@@ -9,6 +10,7 @@ from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
 ROOT = "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/"
+API_ROOT = "https://api.github.com/repos/oelayat1/verticalist-library/contents/"
 MAX_BYTES = 2_000_000
 
 def fetch(url):
@@ -24,8 +26,28 @@ def fetch(url):
         raise ValueError("Source exceeds the supported size")
     return data
 
+def fetch_api_file(path):
+    if path.startswith("/") or ".." in path.split("/"):
+        raise ValueError("Unexpected repository path")
+    request = Request(API_ROOT + path + "?ref=main&fresh=" + str(time.time_ns()),
+                      headers={"User-Agent": "Verticalist-Library/1.0", "Cache-Control": "no-cache"})
+    with urlopen(request, timeout=30) as response:
+        if not response.geturl().startswith(API_ROOT):
+            raise ValueError("Unexpected API redirect")
+        payload = response.read(MAX_BYTES + 1)
+    if len(payload) > MAX_BYTES:
+        raise ValueError("API response exceeds the supported size")
+    record = json.loads(payload)
+    if record.get("type") != "file" or record.get("encoding") != "base64" or record.get("path") != path:
+        raise ValueError("Unexpected API file response")
+    return base64.b64decode(record["content"])
+
 def catalog():
-    data = json.loads(fetch(ROOT + "library.json"))
+    try:
+        content = fetch_api_file("library.json")
+    except Exception:
+        content = fetch(ROOT + "library.json")
+    data = json.loads(content)
     if data.get("schema_version") != 1 or not isinstance(data.get("sources"), list):
         raise ValueError("Unsupported library catalog")
     seen = set()
@@ -68,7 +90,12 @@ def main():
         results = []
         for source_id in args.source:
             source = by_id[source_id]
-            content = fetch(source["read_url"])
+            try:
+                content = fetch(source["read_url"])
+            except Exception:
+                content = fetch_api_file(source["path"])
+            if hashlib.sha256(content).hexdigest() != source["sha256"]:
+                content = fetch_api_file(source["path"])
             if hashlib.sha256(content).hexdigest() != source["sha256"]:
                 raise ValueError("Source changed since catalog generation; ask the maintainer to rebuild the index: " + source_id)
             results.append({"id": source_id, "title": source["title"], "date": source["date"],
