@@ -2,7 +2,7 @@
   "schema_version": 1,
   "library": "The Verticalist",
   "repository": "oelayat1/verticalist-library",
-  "updated": "2026-10-04T20:53:51+00:00",
+  "updated": "2026-10-15T18:18:50+00:00",
   "sources": [
     {
       "id": "2026-09-29-saaspocalypse-now-what",
@@ -63,6 +63,18 @@
       "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-05-01-the-dark-marketplace.md",
       "sha256": "e1962ae68572251af49bf0a201baf9659956e004d741b104c26141d4cb1b738f",
       "original_pdf": "2026-05-01 The Dark Marketplace.pdf"
+    },
+    {
+      "id": "2026-04-16-service-level-disagreement",
+      "type": "essay",
+      "title": "Service-Level Disagreement",
+      "date": "2026-04-16",
+      "summary": "Distinguishes services-as-a-wedge from services-as-delivery, examining automation, liability, TAM, and why durable AI businesses still need workflow ownership and software moats.",
+      "path": "essays/2026-04-16-service-level-disagreement.md",
+      "url": "https://insights.euclid.vc/p/service-level-disagreement-ai-services-versus-software",
+      "read_url": "https://raw.githubusercontent.com/oelayat1/verticalist-library/main/essays/2026-04-16-service-level-disagreement.md",
+      "sha256": "c0f27b32a00260e15596d4788ea544c228795f05f0aff96bbba940f8f497ceab",
+      "original_pdf": null
     },
     {
       "id": "2026-04-05-no-country-for-old-founders",

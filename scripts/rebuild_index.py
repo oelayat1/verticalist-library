@@ -53,7 +53,7 @@ def rebuild(root):
     podcast_count = sum(s["type"] == "podcast" for s in sources)
     md = "# The Verticalist — Content Index\n\n"
     md += "Updated: " + updated + ". Coverage: " + str(essay_count) + " essays and " + str(podcast_count) + " podcast transcripts.\n\n"
-    md += "Dates are publication dates printed in the original sources. Descriptions help locate useful material; read the full source before proposing linked text for a draft.\n\n"
+    md += "Dates are publication dates from the original sources. Descriptions help locate useful material; read the full source before proposing linked text for a draft.\n\n"
     for kind, heading in (("essay", "Essays"), ("podcast", "Podcast transcripts")):
         md += "## " + heading + "\n\n"
         subset = [s for s in sources if s["type"] == kind]
@@ -67,7 +67,7 @@ def rebuild(root):
             md += "| " + source["date"] + " | [" + title + "](" + source["url"] + ") | " + summary + " |\n"
         md += "\n"
     md += "## Source notes\n\n"
-    md += "Essay text was extracted from the supplied PDF archive. Original wording and footnotes are retained; related-post lists after the essay are omitted where identifiable. PDF text can contain line-wrap and layout artifacts, and charts are not transcribed.\n\n"
+    md += "The initial 28 essays were extracted from the supplied PDF archive. Additional essays may be imported from their published pages, with original article links retained. Source wording and footnotes are preserved; subscription widgets and related-post lists are omitted where identifiable. PDF text can contain line-wrap and layout artifacts. Figures may be linked, but chart contents are not separately transcribed.\n\n"
     mismatches = [s for s in sources if s.get("original_pdf") and s["original_pdf"][:10] != s["date"]]
     if mismatches:
         md += "| Essay | Date printed in PDF | Date in original filename |\n| --- | --- | --- |\n"

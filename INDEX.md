@@ -1,8 +1,8 @@
 # The Verticalist — Content Index
 
-Updated: 2026-10-04T20:53:51+00:00. Coverage: 28 essays and 0 podcast transcripts.
+Updated: 2026-10-15T18:18:50+00:00. Coverage: 29 essays and 0 podcast transcripts.
 
-Dates are publication dates printed in the original sources. Descriptions help locate useful material; read the full source before proposing linked text for a draft.
+Dates are publication dates from the original sources. Descriptions help locate useful material; read the full source before proposing linked text for a draft.
 
 ## Essays
 
@@ -13,6 +13,7 @@ Dates are publication dates printed in the original sources. Descriptions help l
 | 2026-06-23 | [The Exception Queue](https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-06-23-the-exception-queue.md) | Explains how resolving frequent, consequential workflow exceptions can capture proprietary decision traces and build compounding workflow memory. |
 | 2026-05-26 | [SaaSpocalypse Now](https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-05-26-saaspocalypse-now.md) | Tests five common explanations for the software selloff against public-company data and examines what AI exposure and pricing models imply for Vertical AI founders. |
 | 2026-05-01 | [The Dark Marketplace](https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-05-01-the-dark-marketplace.md) | Explores agent-run marketplaces where discovery, negotiation, and purchasing happen out of sight, making buyer judgment and learning loops central to defensibility. |
+| 2026-04-16 | [Service-Level Disagreement](https://insights.euclid.vc/p/service-level-disagreement-ai-services-versus-software) | Distinguishes services-as-a-wedge from services-as-delivery, examining automation, liability, TAM, and why durable AI businesses still need workflow ownership and software moats. |
 | 2026-04-05 | [No Country for Old Founders](https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-04-05-no-country-for-old-founders.md) | Analyzes founders of vertical startups that raised $15M+ rounds in 2025, arguing that domain expertise matters more in Vertical AI even as technical barriers fall. |
 | 2026-03-19 | [We Need to Talk About Agents](https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-03-19-we-need-to-talk-about-agents.md) | Uses GM's failed automation push and Toyota's process improvements to argue that Vertical AI should redesign workflows around outcomes rather than market human-like agents. |
 | 2026-02-18 | [Software Is Dead — Long Live Software](https://github.com/oelayat1/verticalist-library/blob/main/essays/2026-02-18-software-is-dead-long-live-software.md) | Challenges the claim that cheap AI-generated code will eliminate enterprise software, emphasizing workflow entrenchment, domain expertise, proprietary data, and accountability. |
@@ -43,7 +44,7 @@ No transcripts have been added yet.
 
 ## Source notes
 
-Essay text was extracted from the supplied PDF archive. Original wording and footnotes are retained; related-post lists after the essay are omitted where identifiable. PDF text can contain line-wrap and layout artifacts, and charts are not transcribed.
+The initial 28 essays were extracted from the supplied PDF archive. Additional essays may be imported from their published pages, with original article links retained. Source wording and footnotes are preserved; subscription widgets and related-post lists are omitted where identifiable. PDF text can contain line-wrap and layout artifacts. Figures may be linked, but chart contents are not separately transcribed.
 
 | Essay | Date printed in PDF | Date in original filename |
 | --- | --- | --- |

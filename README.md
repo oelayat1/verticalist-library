@@ -18,9 +18,9 @@ Adding content to this repository does not require reinstalling the skill. If th
 
 ## What is included
 
-The initial library contains 28 essays extracted from the supplied PDFs. The index uses the publication dates and titles printed in those PDFs. Podcast transcripts will be added later.
+The library contains 29 essays imported from the supplied PDFs and original published articles. The index uses the publication dates and titles from those sources. Podcast transcripts will be added later.
 
-The searchable files preserve extracted essay text and footnotes, with identifiable post-discussion and related-post footers removed. They may contain PDF layout artifacts. Figures and chart data have not been separately transcribed.
+The searchable files preserve essay text and footnotes, with identifiable subscription widgets, post-discussion, and related-post footers removed. PDF imports may contain layout artifacts. Published-page imports retain source hyperlinks and figure references. Figures and chart data have not been separately transcribed.
 
 ## Update the library
 
