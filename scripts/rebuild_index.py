@@ -68,6 +68,8 @@ def rebuild(root):
         md += "\n"
     md += "## Source notes\n\n"
     md += "The initial 28 essays were extracted from the supplied PDF archive. Additional essays may be imported from their published pages, with original article links retained. Source wording and footnotes are preserved; subscription widgets and related-post lists are omitted where identifiable. PDF text can contain line-wrap and layout artifacts. Figures may be linked, but chart contents are not separately transcribed.\n\n"
+    if podcast_count:
+        md += "Podcast transcripts preserve supplied text, speaker labels, and timestamps and may contain automated transcription errors. Podcast dates refer to the linked published episode pages. Archive episode numbers follow the supplied Drive folders; Deepak Chhugani's transcript is filed under archive episode 21 although its source filename says Episode 20.\n\n"
     mismatches = [s for s in sources if s.get("original_pdf") and s["original_pdf"][:10] != s["date"]]
     if mismatches:
         md += "| Essay | Date printed in PDF | Date in original filename |\n| --- | --- | --- |\n"

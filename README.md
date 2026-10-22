@@ -18,9 +18,11 @@ Adding content to this repository does not require reinstalling the skill. If th
 
 ## What is included
 
-The library contains 29 essays imported from the supplied PDFs and original published articles. The index uses the publication dates and titles from those sources. Podcast transcripts will be added later.
+The library contains 29 essays and 29 podcast transcripts. Essays come from the supplied PDFs and original published articles. Podcast transcripts cover archive episodes 20–48 of Verticals, with a one-line summary, featured participants, existing speaker labels and timestamps, and a link to each published episode page.
 
 The searchable files preserve essay text and footnotes, with identifiable subscription widgets, post-discussion, and related-post footers removed. PDF imports may contain layout artifacts. Published-page imports retain source hyperlinks and figure references. Figures and chart data have not been separately transcribed.
+
+Podcast transcripts are preserved as supplied and may contain automated transcription errors. Their dates come from the linked published episode pages, not the recording or Drive upload dates. Archive episode numbers follow the supplied Drive folders and may differ from other published numbering. See the [podcast guide](podcasts/README.md) for details.
 
 ## Update the library
 
